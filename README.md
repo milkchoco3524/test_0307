@@ -85,7 +85,7 @@ blablablalba
        \frac{1}{n}
        $$
 
-      $$
+       $$
        \frac{1}{n}
        $$
    
